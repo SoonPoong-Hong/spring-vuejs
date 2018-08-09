@@ -39,6 +39,7 @@
 1. Spring WebApplication 을 구동한다.
 
 2. 터미널에서 `npm run start` 를 실행하여 webpack devServer 를 구동한다.
+- 조회 : http://localhost:3000
     
 - 이 프로젝트의 `package.json` 에는 webpack 을 구동하는 script 를 선언해두었다. `start` 명령도 그 중 하나이다.
     - start : webpack devServer 구동
