@@ -1,6 +1,8 @@
 <template>
     <div>
-        <div>== home ==</div>
+    <div>
+        == this is home 2
+    </div>
         <user-list :users="users"/>
         <user-info/>
         <todo-list/>
